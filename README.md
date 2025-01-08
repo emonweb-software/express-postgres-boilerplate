@@ -1,7 +1,7 @@
 # Express Postgres Boilerplate
 
-![Node.js](https://img.shields.io/badge/Node.js-v16.0.0-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-v4.0.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-v20.12.2-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-v5.6.2-blue)
 
 ## Introduction
 

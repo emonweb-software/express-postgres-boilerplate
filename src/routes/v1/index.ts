@@ -1,9 +1,7 @@
-import express from "express";
-const router = express.Router();
+import router from "@/configs/router-config"
 
-// Create example route
-router.get("/example", (req: express.Request, res: express.Response) => {
-  res.send("Response from v1 example route");
-});
+router.get("/example", (req: TRequest, res: TResponse) => {
+  res.send("Response from v1 example route")
+})
 
-module.exports = router;
+export default router

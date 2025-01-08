@@ -1,4 +1,6 @@
 {
-  "ext": "ts",
-  "exec": "ts-node src/app.ts"
+  "watch": ["src", ".env.*"],
+  "ext": ".ts,.js",
+  "ignore": ["node_modules"],
+  "exec": "tsx ./src/app.ts"
 }
