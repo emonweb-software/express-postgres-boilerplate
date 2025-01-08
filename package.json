@@ -1,7 +1,7 @@
 {
   "name": "express-postgres-boilerplate",
   "version": "0.1.0",
-  "description": "demo version of express postgres boilerplate",
+  "description": "Best template with Node.js, Postgres and TypeScript, using Express to create versioned routes. It includes security middleware and environment configuration to ensure the application runs efficiently and securely.",
   "scripts": {
     "dev": "npx nodemon",
     "build": "rimraf ./dist && tsc && tsc-alias",

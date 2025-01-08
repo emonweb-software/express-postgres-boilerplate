@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project is a boilerplate with Node.js, Postgres and TypeScript, using Express to create versioned routes. It includes security middleware and environment configuration to ensure the application runs efficiently and securely.
+Best template with Node.js, Postgres and TypeScript, using Express to create versioned routes. It includes security middleware and environment configuration to ensure the application runs efficiently and securely.
 
 ## Features
 
